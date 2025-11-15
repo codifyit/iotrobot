@@ -5,7 +5,7 @@
 
 ## Projects
 
-- [Using bluetooth web api to control the Axati High School Smart House (24-25 course)](https://github.com/codifyit/iotaxatihouse/tree/main/theproject)<br>
+- [Using bluetooth web api to control the Axati High School Smart House (24-25 course)](https://github.com/codifyit/iotaxatihouse/tree/main/theprojects)<br>
 The first project is about IoT with Arduino using different kinds of sensors.<br>
 - [Wonder Kit - Robotics (24-25 course)]
 <br>LEGO-type construction kit. It contains different electronic sensors, such as the line tracking sensor, the sonar and the water level sensor.<br>
