@@ -7,13 +7,13 @@
 - Wonder Kit Eleego
   
 - Hardware
-  - Tablet
+  - Laptop
   - Sensors
-  - Arduino
+  - micro:bit board v.2
   - Wires, screws, nuts, ...
 
 - Software
-  - IDE Arduino
+  - Makecode
   - Browser
   - Eleego App
 
