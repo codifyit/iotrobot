@@ -4,7 +4,7 @@
 </td><td>The target of this Open Source Project is to develop a web application to control the sensors of a robotic arm via Bluetooth using Arduino<br><br><i>Sorry, we are working to complete this section asap!</i></td></tr></table>
 
 ## Resources
-- Robotic Arm Kit
+- Robotic Arm Kit (Adeept Robotic Arm Kit for Arduino V4.0)
   
 - Hardware
   - Tablet
