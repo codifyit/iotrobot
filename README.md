@@ -5,11 +5,11 @@
 
 ## Projects
 
-- [Using bluetooth web api to control the Axati High School Smart House (24-25 course)](https://github.com/codifyit/iotaxatihouse/tree/main/theprojects)<br>
+- [Using bluetooth web api to control the Axati High School Smart House (24-25 course)](https://github.com/codifyit/iotrobot/tree/main/theprojects/iothouse)<br>
 The first project is about IoT with Arduino using different kinds of sensors.<br>
-- [Wonder Kit - Robotics (24-25 course)]
+- [Wonder Kit - Robotics (24-25 course)](https://github.com/codifyit/iotrobot/tree/main/theprojects/wonderkit)
 <br>LEGO-type construction kit. It contains different electronic sensors, such as the line tracking sensor, the sonar and the water level sensor.<br>
-- ELEGO Car v.4
+- [ELEGO Car v.4](https://github.com/codifyit/iotrobot/tree/main/theprojects/roboticcar)
 <br>The Elegoo Smart Robot Car Kit V4.0 with Camera is a comprehensive educational tool designed to introduce beginners ages 12 and up to programming, electronic assembly and robotics, thereby promoting the development of STEAM skills.<br>
-- Robotic Arm Kit
+- [Robotic Arm Kit](https://github.com/codifyit/iotrobot/tree/main/theprojects/roboticarm)
 <br>With the advancement of modern science and technology, Robotic Arm are more and more used in human production, life, entertainment, and learning. Now let's learn about the characteristics of Robotic Arm!
